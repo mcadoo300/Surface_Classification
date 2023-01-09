@@ -15,5 +15,6 @@ Word Class:
 Reduction_Object:
   outer shell for word class
   Contains methods by which the word is reduced into its most basic components
-  this was done because the word class was already topping 300 lines and I ~~apparently write excessively bloated code~~ was toeing 
+  
+  this "outer shell" was made because the word class was already topping 300 lines and I ~~apparently write excessively bloated code~~ was toeing 
   the line of concise and readable
